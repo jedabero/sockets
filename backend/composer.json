@@ -1,0 +1,11 @@
+{
+    "name": "jedabero/sockets-backend",
+    "type": "project",
+    "authors": [
+        {
+            "name": "jedabero",
+            "email": "jedabero20@gmail.com"
+        }
+    ],
+    "require": {}
+}
